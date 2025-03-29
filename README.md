@@ -1,4 +1,4 @@
 # GitTestRepo
-Auther -Pooja Shinde
+Auther -Pooja Shinde (Tester)
 <br>
 This is for testing purpose
